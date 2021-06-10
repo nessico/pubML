@@ -1,6 +1,8 @@
 # publicRepoML
 
+Please read researchproposal.pdf to gain a technical understanding first.
 
+To run project:
 1. Download Python3
 2. Install Python Libraries(numpy,random, sklearn)
 3. Run the python program through desired IDE or terminal and observe results
