@@ -1,6 +1,4 @@
-# publicRepoML
-
-Please read the research proposal to gain a technical understanding first.
+# Please read the research proposal to gain a technical understanding first.
 
 To run project:
 1. Download Python3
