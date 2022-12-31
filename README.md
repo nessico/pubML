@@ -1,4 +1,4 @@
-## Please read researchProposal.pdf for details.
+## Please read researchProposal.pdf for details
 
 ![](https://raw.githubusercontent.com/nessico/pubML/main/img/research1.png)
 ![](https://raw.githubusercontent.com/nessico/pubML/main/img/research2.png)
