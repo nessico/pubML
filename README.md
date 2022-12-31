@@ -1,6 +1,12 @@
-## Please read the research proposal to gain a technical understanding first.
+# Please read the research proposal to gain a technical understanding first.
 
-To run project:
+![](https://raw.githubusercontent.com/nessico/pubML/main/img/research1.png)
+![](https://raw.githubusercontent.com/nessico/pubML/main/img/research2.png)
+![](https://raw.githubusercontent.com/nessico/pubML/main/img/research3.png)
+![](https://raw.githubusercontent.com/nessico/pubML/main/img/research4.png)
+
+
+## To run project:
 1. Download Python3
 2. Install Python Libraries(numpy,random, sklearn)
 3. Run the python program through desired IDE or terminal and observe results
