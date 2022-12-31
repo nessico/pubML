@@ -1,4 +1,4 @@
-# Please read the research proposal to gain a technical understanding first.
+## Please read the research proposal to gain a technical understanding first.
 
 ![](https://raw.githubusercontent.com/nessico/pubML/main/img/research1.png)
 ![](https://raw.githubusercontent.com/nessico/pubML/main/img/research2.png)
